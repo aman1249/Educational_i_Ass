@@ -1,0 +1,17 @@
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\AstronautScheduler.csproj.AssemblyReference.cache
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\AstronautScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\AstronautScheduler.AssemblyInfoInputs.cache
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\AstronautScheduler.AssemblyInfo.cs
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\AstronautScheduler.csproj.CoreCompileInputs.cache
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\bin\Debug\net8.0\AstronautScheduler.exe
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\bin\Debug\net8.0\AstronautScheduler.deps.json
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\bin\Debug\net8.0\AstronautScheduler.runtimeconfig.json
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\bin\Debug\net8.0\AstronautScheduler.dll
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\bin\Debug\net8.0\AstronautScheduler.pdb
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\bin\Debug\net8.0\NLog.dll
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\Astronau.7B97A24C.Up2Date
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\AstronautScheduler.dll
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\refint\AstronautScheduler.dll
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\AstronautScheduler.pdb
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\AstronautScheduler.genruntimeconfig.cache
+C:\Users\paman\OneDrive\Desktop\EI\AstronautScheduler\obj\Debug\net8.0\ref\AstronautScheduler.dll
